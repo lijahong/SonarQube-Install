@@ -1,5 +1,5 @@
 ## SonarQube-Install
-#### Kubernetes를 이용한 SonarQube & PostgreSQL 설치
+#### Kubernetes Yaml 파일을 이용한 SonarQube & PostgreSQL 설치
 
 ---
 
